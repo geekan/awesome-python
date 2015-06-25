@@ -665,6 +665,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol
 * [textract](https://github.com/deanmalmgren/textract) - Extract text from any document, Word, PowerPoint, PDFs, etc.
 * [sanitize](https://github.com/Alir3z4/sanitize) - Bringing sanity to world of messed-up data.
+* [dragnet](https://github.com/seomoz/dragnet) - Extract the main article content and optionally user generated comments with machine learning models.
 
 ## Forms
 
